@@ -24,12 +24,15 @@ This project is part of the CodTech Internship. Task 1 focuses on setting up clo
 
 ## ✅ Steps Performed
 1. Created a unique S3 bucket on AWS.
-2. Uploaded sample file.
+2. Uploaded sample file. 
 3. Configured access permissions to allow public or restricted access as needed.
 4. Verified the accessibility of the uploaded files via URLs.
 
 ## 📁 Bucket Example
 *Bucket Name*: codtech-sravani 
+*URL* : https://eu-north-1.console.aws.amazon.com/s3/buckets/codtech-sravani?region=eu-north-1&bucketType=general
+*file name* : ksravani.pdf
+*URL*: https://eu-north-1.console.aws.amazon.com/s3/object/codtech-sravani?region=eu-north-1&bucketType=general&prefix=ksravani.pdf
 *Region*: eu-north-1
 
 ## 🔐 Access Permissions
